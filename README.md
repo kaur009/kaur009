@@ -129,10 +129,10 @@
 ### 🔥 Chrome Dino Game - Click to Play!
 
 <a href="https://chromedino.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/Muszic/Muszic/main/Qui%20Risque%20D%20Augmenter%20Le%20Nombres%20Heures%20Sur%20Votre%20Pokemon%20X.jpg" alt="Mega Charizard" width="500"/>
+<img src="https://raw.githubusercontent.com/kaur009/kaur009/main/pink-mega-charizard.png" alt="Pink Mega Charizard" width="500"/>
 </a>
 
-**Click Mega Charizard above to play the Chrome Dino game! Press SPACE to jump. 🎮🔥**
+**Click the Pink Mega Charizard above to play the Chrome Dino game! Press SPACE to jump. 🎮🔥**
 
 <br/>
 
